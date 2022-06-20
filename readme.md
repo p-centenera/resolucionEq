@@ -1,5 +1,5 @@
 # Guía de creación del proyecto:
-## Creción del arquetipo 
+## Creación del arquetipo 
 Para crear el arquetipo maven quickstart para el proyecto ejecute:
 ```sh
 
